@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Shru11488
-- 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate with different projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Shruti 👋
 
-<!---
-Shru11488/Shru11488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer passionate about building responsive and scalable web applications.
+
+## 🚀 Tech Stack
+- React.js, Next.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- MongoDB, Node.js
+
+## 📌 Projects
+- Coffee Shop Web App → my-coffee-shop-lovat.vercel.app
+- Expense Management System → https://github.com/Shru11488/expense-tracker-pro.git
+
+## 📫 Contact
+- Email: deshmukhshruti81@gmail.com
